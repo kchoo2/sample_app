@@ -1,0 +1,1 @@
+json.exercise @exercise_message
